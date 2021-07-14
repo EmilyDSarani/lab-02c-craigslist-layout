@@ -14,23 +14,24 @@ html,body{
     background-color: whitesmoke;
 }
 .top{
-background-color: whitesmoke;
-color:royalblue;
+background-color:rgb(52, 120, 255);
+color:white;
 height: 100px;
 width:700px;
 font-size: larger;
 font-style: bold;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
     
 .bottom{
-    background-color: whitesmoke;
+    background-color: white;
     height:500px;
     width:700px;
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-
+    background:url(https://images.pexels.com/photos/4123921/pexels-photo-4123921.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
 }
 
 .one{
@@ -67,4 +68,7 @@ a:link{
 }
 a:hover{
     color:lightpink
+}
+.footer{
+
 }
